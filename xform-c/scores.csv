@@ -1,0 +1,16 @@
+Identifier,prob_id,score,prob_desc
+748737,1,0,code compiles
+748737,2,0,input 101
+748737,3,0,input 10011
+748737,4,0,empty input
+748737,5,0,bad input
+748708,1,0,code compiles
+748708,2,0,input 101
+748708,3,1,input 10011
+748708,4,0,empty input
+748708,5,1,bad input
+748701,1,0,code compiles
+748701,2,0,input 101
+748701,3,0,input 10011
+748701,4,0,empty input
+748701,5,1,bad input

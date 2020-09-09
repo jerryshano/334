@@ -1,0 +1,30 @@
+3,6c3,6
+< Participant 748737,3_b,10,input 101
+< Participant 748737,3_c,10,input 10011
+< Participant 748737,3_d,10,empty input
+< Participant 748737,3_c,10,bad input
+---
+> Participant 748737,3_b,5,input 101
+> Participant 748737,3_c,5,input 10011
+> Participant 748737,3_d,5,empty input
+> Participant 748737,3_e,5,bad input
+8c8
+< Participant 748708,3_b,10,input 101
+---
+> Participant 748708,3_b,5,input 101
+10,11c10,11
+< Participant 748708,3_d,10,empty input
+< Participant 748708,3_c,0,bad input
+---
+> Participant 748708,3_d,5,empty input
+> Participant 748708,3_e,0,bad input
+13,16c13,16
+< Participant 748701,3_b,10,input 101
+< Participant 748701,3_c,10,input 10011
+< Participant 748701,3_d,10,empty input
+< Participant 748701,3_c,0,bad input
+---
+> Participant 748701,3_b,5,input 101
+> Participant 748701,3_c,5,input 10011
+> Participant 748701,3_d,5,empty input
+> Participant 748701,3_e,0,bad input

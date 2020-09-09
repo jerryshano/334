@@ -1,0 +1,16 @@
+Identifier,prob_id,score,comments
+Participant 748737,3_a,10,code compiles
+Participant 748737,3_b,5,input 101
+Participant 748737,3_c,5,input 10011
+Participant 748737,3_d,5,empty input
+Participant 748737,3_e,5,bad input
+Participant 748708,3_a,10,code compiles
+Participant 748708,3_b,5,input 101
+Participant 748708,3_c,0,input 10011
+Participant 748708,3_d,5,empty input
+Participant 748708,3_e,0,bad input
+Participant 748701,3_a,10,code compiles
+Participant 748701,3_b,5,input 101
+Participant 748701,3_c,5,input 10011
+Participant 748701,3_d,5,empty input
+Participant 748701,3_e,0,bad input

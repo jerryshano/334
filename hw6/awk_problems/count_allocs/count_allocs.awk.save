@@ -1,0 +1,15 @@
+#!/usr/bin/awk -f
+# YOUR CODE HERE
+
+for(i = 1; i <= ){
+
+}
+
+{if($4 == "returned" && $5 >= 0){
+	print("num successes: " + $5 + ";")
+}
+else if ($4 == "returned" && $5 == 0){
+	print("num failures: " + $5 + ";")
+}
+
+}

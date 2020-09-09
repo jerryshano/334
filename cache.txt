@@ -1,0 +1,18 @@
+
+#
+# Problem lines begin with "#@".
+# For each problem line, put your answer *on the following line*.
+# Do not modify this file in any way except to insert your answers.
+#
+
+#@ 1  (enter a decimal number between 0 and 1)
+0.735480
+#@ 2  (enter 5 decimal numbers, separated by spaces.  Each number is between 0 and 1)
+0.540960 0.621260 0.735480 0.830930 0.929730
+#@ 3  (enter a decimal number between 0 and 1)
+0.387050
+#@ 4  (enter a decimal number)
+3.565
+#@ 5  (enter a decimal number)
+5.941
+

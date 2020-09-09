@@ -1,0 +1,14 @@
+#!/usr/bin/awk -f
+# YOUR CODE HERE
+
+{
+hj = 0
+count =0
+if($4 ~ /returned/ && $5 ~ -1){
+	count += 1
+}
+else if ($4 ~ /returned/ && $5 ~ 0){
+	hj += 1
+}
+        print("num successes: " + count + "; " + "num failures: " + hj) 
+}
